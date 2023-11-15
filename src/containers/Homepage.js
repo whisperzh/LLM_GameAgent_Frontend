@@ -1,4 +1,3 @@
-import StickyHeadTable from "../components/table";
 import BasicTabs from "../components/TabLayout";
 import './styles.css';
 
